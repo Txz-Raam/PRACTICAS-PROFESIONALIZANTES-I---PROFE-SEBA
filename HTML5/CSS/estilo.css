@@ -1,0 +1,28 @@
+/*SELECTOR BODY*/
+body{ 
+    /*BLOQUE DE DECLARACIONES*/
+    background-color: rgb(24, 133, 9);/*COLOR DE FONDO DE LA PAGINA*/
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(122, 69, 0);
+    text-align: center;/*DIRECCION DE LA FUENTE*/
+    font-size: 2em;/*TAMAÑO DE LA FUENTE*/
+
+}
+h1{
+    background-color: rgb(122, 69, 0);
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+
+
+}
+h2{
+    background-color: rgb(136, 76, 8);
+    color: rgb(0, 0, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+    font-size: 2em;
+}
+img{
+    width: 100%;
+    padding: 90px 100px ;
+}
