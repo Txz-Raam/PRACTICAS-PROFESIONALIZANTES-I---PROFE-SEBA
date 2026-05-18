@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(#302677);
+    font-family:'Nunito';
+    color: rgb(179, 7, 7);
+    margin: 0;
+}
+
+.portada{
+    width: 50%;
+}
+header{
+    background-color: aliceblue;
+    color: (#302677);
+}
+
+header h1{
+    text-align: center;
+    font-size: 2em;
+}
+
+main{
+    background-color: white;
+    color: #302677;
+}
+main h2{
+    text-align: center;
+    font-size: 1em;
+}
+
+main ul{
+    background-color: lightcoral;
+}
