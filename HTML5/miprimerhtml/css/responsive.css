@@ -1,0 +1,39 @@
+@media(min-width:600px) and 
+(max-width:800px){
+    body{
+        background-color: red;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+
+    }
+    .portada{
+        width: 69%;
+    }
+    header{
+        background-color: darkorange;
+        color: white;
+        width: 69%;
+    }
+    header h1{
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: 1.5em;
+
+    }
+    main{
+        background-color: black;
+        color: darkorange;
+        width: 69%;
+    }
+    main h2{
+        text-align: center;
+        font-size: 1.5em;
+    }
+    main ul{
+        background-color: blue;
+        color: black;
+        text-align: left;
+        font-size: 1em;
+    }
+}
