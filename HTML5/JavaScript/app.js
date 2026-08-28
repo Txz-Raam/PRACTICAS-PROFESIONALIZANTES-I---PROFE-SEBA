@@ -5,3 +5,6 @@ const prompt = promptSync();
 let Mensaje = prompt ("Hola, ¿Como estas?");
 console.log(Mensaje);
 
+
+
+

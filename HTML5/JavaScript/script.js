@@ -33,5 +33,42 @@ console.log("Multiplicacion = ",numero1*numero2);
 console.log("Disvision = ",numero1/numero2);
 //Potencia
 console.log("Potencia = ",numero1^numero2);
-//Raiz
-console.log("Raiz = ",numero1numero2);
+//Raizco
+let raiz  = 9;
+let resultado  = Math.sqrt(raiz);
+console.log("la raiz cuadrada es:",resultado);
+
+//Mayor de dos numero
+if (numero2 > numero1) {
+    console.log("EL mayor es:", numero2);
+}
+if (numero1 > numero2) {
+    console.log("El mayor es:",numero1);
+} 
+//Doble
+//Numero positivo o negativo
+let numero3= -20;
+if (numero3 > 0) {
+    console.log("El  numero positivo: ",numero3);
+}else {
+    console.log("El numero negativo: ",numero3);
+}
+
+let meses 
+let enero = 1
+let febrero = 2
+let marzo = 3
+let abril = 4
+let mayo = 5
+let junio = 6
+let julio = 7 
+let agosto = 8
+let septiembre = 9
+let octubre = 10
+let noviembre = 11
+let diciembre = 12
+
+
+
+
+
